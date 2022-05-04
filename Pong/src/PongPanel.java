@@ -14,7 +14,7 @@ import java.awt.BasicStroke;
 
 public class PongPanel extends JPanel implements ActionListener, KeyListener{
 	
-	private final static Color BACKGROUND_COLOUR = Color.YELLOW;
+	private final static Color BACKGROUND_COLOUR = Color.PINK;
 	private final static int TIMER_DELAY = 5;
 	private final static int BALL_MOVEMENT_SPEED = 2;
 	Ball ball;
